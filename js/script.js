@@ -3,5 +3,6 @@ const app = new Vue({
 
     data: {
         messaggio: "hello word",
+        image: "jairph-oCUeelrm1eI-unsplash.jpg",
     },
 });
